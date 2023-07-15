@@ -27,7 +27,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
 
 
-include "./app/Class/AgoraDynamicKey/RtcTokenBuilder.php";
+//include "./app/Class/AgoraDynamicKey/RtcTokenBuilder.php";
 
 class SettingsController extends Controller
 {
