@@ -1,6 +1,6 @@
-var domainUrl = "https://heyawhowa.com/";
+var domainUrl = "https://heyawhowa.com/public/";
 var sourceUrl = `${domainUrl}public/storage/`;
-
+ 
 var strings = {
     error: "Error!",
     success: "Success!",
