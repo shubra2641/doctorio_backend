@@ -1,4 +1,4 @@
-var domainUrl = "https://heyawhowa.com/";
+var domainUrl = "https://heyawhowa.com/public/";
 var sourceUrl = `https://heyawhowa.com/public/storage/`;
  
 var strings = {
